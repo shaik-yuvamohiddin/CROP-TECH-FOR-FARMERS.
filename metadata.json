@@ -1,0 +1,7 @@
+{
+  "name": "CropTech: Intelligent Crop Recommendation",
+  "description": "A stable, data-driven agricultural insight tool for farmers using Indian PIN codes to suggest optimal crops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
